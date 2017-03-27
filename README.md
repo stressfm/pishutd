@@ -1,5 +1,5 @@
-# SOFT SHUTDOWN PI #
+# SHUTDOWN PI ON BUTTON PRESS #
 
-### Installing to run at startup ###
+### Running at startup ###
 
- edit /etc/rc.local and add "sudo python /home/pi/path/shutdown_pi.py &" before "exit 0"
+edit /etc/rc.local and add "sudo python /path/to/script/shutdown_pi.py &" before "exit 0"
