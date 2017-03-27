@@ -1,4 +1,4 @@
-# SHUTDOWN PI ON BUTTON PRESS #
+# Shutdown RPi on button press #
 
 ### Running at startup ###
 
